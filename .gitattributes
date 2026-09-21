@@ -1,0 +1,13 @@
+# See https://github.com/github/linguist
+Cargo.lock linguist-generated
+docs/** linguist-vendored
+docs/**/*.html linguist-vendored
+*.tsx linguist-detectable
+
+*.woff binary
+*.json linguist-detectable=false
+package-lock.json linguist-generated
+
+build/* linguist-vendored
+node_modules/* linguist-vendored
+# eof f1511492
