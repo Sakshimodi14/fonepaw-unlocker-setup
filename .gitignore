@@ -1,0 +1,9 @@
+dist/
+coverage/
+node_modules/
+.env.local
+*.tgz
+npm-debug.log*
+.cache/
+.next/
+.env
